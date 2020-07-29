@@ -2,6 +2,7 @@
 Neste repositório listamos as  diversas iniciativas da Android Dev BR e como a comunidade pode contribuir com cada uma delas.
 
 Saiba [como contribuir com o Slack](iniciativas/slack.md).
+
 Saiba [como contribuir com a publicação do Medium](iniciativas/slack.md).
 
 ## Contribuição voluntária

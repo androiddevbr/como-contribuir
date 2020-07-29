@@ -3,7 +3,7 @@ Neste repositório listamos as  diversas iniciativas da Android Dev BR e como a 
 
 Saiba [como contribuir com o Slack](iniciativas/slack.md).
 
-Saiba [como contribuir com a publicação do Medium](iniciativas/slack.md).
+Saiba [como contribuir com a publicação do Medium](iniciativas/medium.md).
 
 Saiba [como contribuir com o Android Dev BR Cast](iniciativas/podcast.md).
 

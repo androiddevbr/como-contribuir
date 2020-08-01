@@ -9,6 +9,6 @@ Você pode contribuir de diversas formas:
 - Apresentando ideias e sugestões de melhoria através do canal #meta
 
 Para aumentar o alcance da nossa equipe de admins, selecionamos também uma equipe de moderadores que acompanhará o Slack que, além das contribuições acima, tomará outras medidas quando necessário. Nossa equipe de moderação agirá reforçando o [Código de Conduta](https://github.com/androiddevbr/codigo-de-conduta) quando necessário e poderá remover mensagens ou suspender contas, se necessário.
-Para se candidatar a equipe de moderação, entre em contato com qualquer pessoa da equipe de admins listada no [Código de Conduta](https://github.com/androiddevbr/codigo-de-conduta) e apresente suas contribuições atuais com o Slack para que as mesmas sejam avaliadas pela equipe de moderação e de admins.
+Para se candidatar a equipe de moderação, basta criar uma issue neste repositório com as suas contribuições atuais. Nossa equipe de admins fará a avaliação da aplicação assim que possível.
 
 O Slack é nosso hub de comunicação das pessoas da comunidade e das diversas iniciativas. Contribua fazendo dele um lugar sempre melhor.

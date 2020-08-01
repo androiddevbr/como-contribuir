@@ -5,4 +5,5 @@ Nossa comunidade tem uma [publicação ativa no Medium](medium.com/android-dev-b
 - Enviando sugestões para nosso [repositório de temas](https://github.com/androiddevbr/sugestoes-temas).
 - Enviando feedbacks para as pessoas que já escreveram posts para a publicação e para nossa equipe de revisão.
 
-Se você já escreveu  artigos para a nossa publicação e quer começar a contribuir de outra forma, você pode também fazer parte da nossa equipe de revisão. Para isso, entre em contato com uma das pessoas da equipe de admins listada em nosso [Código de Conduta](https://github.com/androiddevbr/codigo-de-conduta) e apresente as  contribuições que você já fez para a publicação. 
+Se você já escreveu  artigos para a nossa publicação e quer começar a contribuir de outra forma, você pode também fazer parte da nossa equipe de revisão. O trabalho desta equipe é acompanhar todos os posts para garantir que a leitura está fluída e clara, apresentando ideias e sugestões para os posts quando possível. Nossa equipe de revisão também faz a publicação e divulgação dos posts.
+Para se candidatar a equipe de revisão, basta criar uma issue neste repositório com as suas contribuições atuais. Nossa equipe de admins fará a avaliação da aplicação assim que possível.

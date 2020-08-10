@@ -1,5 +1,5 @@
 # Contribuindo com a publicação no Medium
-Nossa comunidade tem uma [publicação ativa no Medium](medium.com/android-dev-br/), com contribuições constantes de muitas pessoas. Há muitas formas de contribuir com a publicação:
+Nossa comunidade tem uma [publicação ativa no Medium](https://medium.com/android-dev-br/), com contribuições constantes de muitas pessoas. Há muitas formas de contribuir com a publicação:
 
 - Escrevendo posts e enviando para revisão conforme nossa [agenda de publicação](https://github.com/androiddevbr/agenda-medium).
 - Enviando sugestões para nosso [repositório de temas](https://github.com/androiddevbr/sugestoes-temas).
